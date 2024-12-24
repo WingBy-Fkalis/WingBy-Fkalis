@@ -19,6 +19,7 @@
 - 💬  [SpringBoot-Scan]（https://github.com/AabyssZG/SpringBoot-Scan） 和 [nuclei]（https://github.com/projectdiscovery/nuclei） 等许多知名网络安全开源项目的贡献者。
 - 📫 邮箱：1292863994@qq.com
 - ⛺️ 微信: WingBy_Fkalis(备注来意)
+- ⛵️ 我的知识星球(小圈子): [WingBy小密圈](https://wx.zsxq.com/group/51111558254544)
 - 😄 我的博客,你能看到我的更多面：[Fkalis]（https://www.fkalis.cn）
 - 🔰 关注我的公众号：『fkalis』,每天都会分享干货
 ------
